@@ -1,0 +1,318 @@
+[
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_singer.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\singer.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_dengziqi.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-hdpi\\dengziqi.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music4.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\music4.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_btn_back.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-hdpi\\btn_back.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_music.xml.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\layout\\activity_music.xml"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\raw_music1.mp3.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\raw\\music1.mp3"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_zhoujielun.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-hdpi\\zhoujielun.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_dzh.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-hdpi\\dzh.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_liuruoying.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-hdpi\\liuruoying.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_song.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\song.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music1.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\music1.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Music player\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_zhoushen.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-hdpi\\zhoushen.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\raw_music4.mp3.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\raw\\music4.mp3"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_play.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_style.xml.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\edit_style.xml"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music_bg.jpg.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\music_bg.jpg"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\layout_music_list.xml.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\layout\\music_list.xml"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_linjunjie.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-hdpi\\linjunjie.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_text.xml.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\menu_text.xml"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_style.xml.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\text_style.xml"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_singer_desc.xml.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\layout\\activity_singer_desc.xml"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_tubiao.jpg.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-hdpi\\tubiao.jpg"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_singergrid.xml.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\layout\\item_singergrid.xml"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music3.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\music3.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Music player\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "E:\\Music player\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\raw_music0.mp3.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\raw\\music0.mp3"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Music player\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_lironghao.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-hdpi\\lironghao.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_chenyixun.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-hdpi\\chenyixun.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music0.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\music0.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pre.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\pre.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\raw_music3.mp3.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\raw\\music3.mp3"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music2.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\music2.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_search_background.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-hdpi\\search_background.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_xuezhiqian.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-hdpi\\xuezhiqian.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_zhangjie.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-hdpi\\zhangjie.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_huachenyu.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-hdpi\\huachenyu.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.jpg.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Music player\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\raw_music6.mp3.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\raw\\music6.mp3"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_exit.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\btn_exit.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_xusong.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-hdpi\\xusong.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_music.xml.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\layout\\item_music.xml"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music6.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\music6.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_style.xml.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\button_style.xml"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\layout_singer_page.xml.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\layout\\singer_page.xml"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\raw_music2.mp3.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\raw\\music2.mp3"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_music5.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\music5.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_next.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\next.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_zhoubichang.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-hdpi\\zhoubichang.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pause.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\pause.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_song_enter.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\song_enter.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\Music player\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_item_gridbg.xml.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\item_gridbg.xml"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\raw_music5.mp3.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\raw\\music5.mp3"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable_exit.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_work_background.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-hdpi\\work_background.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_success_background.png.flat",
+        "source": "E:\\Music player\\app\\src\\main\\res\\mipmap-hdpi\\success_background.png"
+    },
+    {
+        "merged": "E:\\Music player\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\Music player\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    }
+]

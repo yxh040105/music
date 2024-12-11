@@ -1,0 +1,69 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="zj.dzh.music_list"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->E:\music\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->E:\music\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->E:\music\app\src\main\AndroidManifest.xml:5:5-27:19
+12        android:allowBackup="true"
+12-->E:\music\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] E:\sdk\caches\transforms-2\files-2.1\1cd7eff88f5e86d0249af2958bf465f0\core-1.1.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/dzh"
+15-->E:\music\app\src\main\AndroidManifest.xml:7:9-35
+16        android:label="Music"
+16-->E:\music\app\src\main\AndroidManifest.xml:8:9-30
+17        android:roundIcon="@mipmap/dzh"
+17-->E:\music\app\src\main\AndroidManifest.xml:9:9-40
+18        android:supportsRtl="true"
+18-->E:\music\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->E:\music\app\src\main\AndroidManifest.xml:11:9-40
+21        <activity android:name="zj.dzh.music_list.Activity.RegisterActivity" />
+21-->E:\music\app\src\main\AndroidManifest.xml:12:9-62
+21-->E:\music\app\src\main\AndroidManifest.xml:12:19-60
+22        <activity android:name="zj.dzh.music_list.Activity.LoginActivity" >
+22-->E:\music\app\src\main\AndroidManifest.xml:13:9-18:20
+22-->E:\music\app\src\main\AndroidManifest.xml:13:19-57
+23            <intent-filter>
+23-->E:\music\app\src\main\AndroidManifest.xml:14:13-17:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->E:\music\app\src\main\AndroidManifest.xml:15:17-68
+24-->E:\music\app\src\main\AndroidManifest.xml:15:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->E:\music\app\src\main\AndroidManifest.xml:16:17-76
+26-->E:\music\app\src\main\AndroidManifest.xml:16:27-74
+27            </intent-filter>
+28        </activity>
+29        <activity android:name="zj.dzh.music_list.Music.MusicActivity" />
+29-->E:\music\app\src\main\AndroidManifest.xml:19:9-57
+29-->E:\music\app\src\main\AndroidManifest.xml:19:19-54
+30        <activity android:name="zj.dzh.music_list.Activity.MainActivity" />
+30-->E:\music\app\src\main\AndroidManifest.xml:20:9-58
+30-->E:\music\app\src\main\AndroidManifest.xml:20:19-56
+31        <activity android:name="zj.dzh.music_list.Activity.SingerDescActivity" />
+31-->E:\music\app\src\main\AndroidManifest.xml:21:9-64
+31-->E:\music\app\src\main\AndroidManifest.xml:21:19-62
+32
+33        <service
+33-->E:\music\app\src\main\AndroidManifest.xml:22:9-26:19
+34            android:name="zj.dzh.music_list.Music.MusicService"
+34-->E:\music\app\src\main\AndroidManifest.xml:23:13-47
+35            android:enabled="true"
+35-->E:\music\app\src\main\AndroidManifest.xml:24:13-35
+36            android:exported="true" >
+36-->E:\music\app\src\main\AndroidManifest.xml:25:13-36
+37        </service>
+38    </application>
+39
+40</manifest>

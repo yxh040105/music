@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="zj.dzh.music_list">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/dzh"
+        android:label="Music"
+        android:roundIcon="@mipmap/dzh"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Activity.RegisterActivity"/>
+        <activity android:name=".Activity.LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".Music.MusicActivity" />
+        <activity android:name=".Activity.MainActivity"/>
+        <activity android:name=".Activity.SingerDescActivity"/>
+        <service
+            android:name=".Music.MusicService"
+            android:enabled="true"
+            android:exported="true">
+        </service>
+    </application>
+
+</manifest>
